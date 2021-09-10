@@ -12,3 +12,5 @@ https://jillium.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by [Jill]
+
+### 2019 Run Buddy, Inc

@@ -10,6 +10,8 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+/*header/ nav bar styles start */
+
 header {
     padding: 20px 35px;
     background-color: #29a6b2;
@@ -57,6 +59,10 @@ footer {
     flex-wrap: wrap;
 }
 
+/* header/navbar styles end */
+
+/*footer styles start */
+
 footer h2 {
     color: #024e76;
     font-size: 30px;
@@ -72,9 +78,16 @@ footer a {
     color: #024e76;
 }
 
+/*end footer styles*/
+
+/*style all section tags*/
+
 section {
     padding: 60px;
 }
+
+
+/*hero styles start */
 
 .hero {
     background-image: url("../images/hero-bg.jpeg");
@@ -140,6 +153,9 @@ section {
     font-size: 16px;
 }
 
+/* hero styles end */
+
+/* what we do styles start*/
 
   .intro p {
     line-height: 1.7;
@@ -149,6 +165,11 @@ section {
     margin: 0 auto;
     text-align: center;
   }
+
+  /* what we do styles end */
+
+  /*what you do styles start */
+
   
   .steps {
     background: #fce138;
@@ -202,7 +223,10 @@ section {
   .step-img img {
     max-width: 100%;
   }
+
+  /* what you do styles end */
   
+  /* section title styles start */
 
   .section-title {
     font-size: 55px;
@@ -222,6 +246,10 @@ section {
   .secondary-border {
     border-color: #39a6b2;
   }
+
+  /*section title styles end */
+
+  /* meet the trainers start */
 
   
   .trainer {
@@ -262,13 +290,7 @@ section {
     font-size: 17px;
   }
   
-  .text-left {
-    text-align: left;
-  }
-  
-  .text-right {
-    text-align: right;
-  }
+/*trainer bio end */
 
   .contact {
     background-color: #024e76;
